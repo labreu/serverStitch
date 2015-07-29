@@ -1,0 +1,1 @@
+vips im_vips2tiff land_shallow_topo_8192.tif land.tif:deflate,tile:256x256,pyramid
